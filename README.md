@@ -25,6 +25,5 @@ AI 모델에 대한 이해와 웹·앱 서비스 구현 능력을 결합하여, 
 - 세종대학교 SW융합대학 AI 창업아이디어리그 장려상
 
 ## 🔗 Connect with Me
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com)
-- 🌐 Blog: [Your Blog](https://yourblog.com)
+- 📧 Email: yhdbcontact@gmail.com
+
