@@ -1,11 +1,14 @@
 # 👋 안녕하세요!
-
-안녕하세요 유혁재입니다.
+AI 모델에 대한 이해와 웹·앱 서비스 구현 능력을 결합하여, 비즈니스 문제를 자율적으로 해결하는 AI Agent 엔지니어 유혁재입니다.
 
 ## 🎯 About Me
-- 💻 풀스택 개발자 / 웹 개발 전문
-- 🔍 새로운 기술 학습에 관심이 있습니다
-- 📚 지속적으로 성장하고 있습니다
+- 세종대학교 지능기전공학부 스마트기기공학전공 4학년 휴학 (現 AI로봇학과)
+- KT Aivle School AI Track 9기 수강 중 (2026.03 ~ 2026.09)
+
+## ⚙️ Main project
+- 
+-
+-
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -14,13 +17,11 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yhdbgit&theme=radical&show_icons=true)
+## 🏆 Awards
+- NAVER connect 1784 스쿨혁명 최우수상
+- 세종대학교 SW융합대학 AI 창업아이디어리그 장려상
 
 ## 🔗 Connect with Me
 - 📧 Email: your.email@example.com
 - 💼 LinkedIn: [Your LinkedIn](https://linkedin.com)
 - 🌐 Blog: [Your Blog](https://yourblog.com)
-
----
-*항상 새로운 프로젝트와 협업 기회를 찾고 있습니다!*
