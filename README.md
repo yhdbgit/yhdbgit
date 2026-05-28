@@ -20,10 +20,6 @@ AI 모델에 대한 이해와 웹·앱 서비스 구현 능력을 결합하여, 
 ### 🌐 Web & Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-## 🏆 Awards
-- NAVER connect 1784 스쿨혁명 최우수상
-- 세종대학교 SW융합대학 AI 창업아이디어리그 장려상
-
 ## 🔗 Connect with Me
 - 📧 Email: yhdbcontact@gmail.com
 
