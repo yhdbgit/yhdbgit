@@ -3,7 +3,7 @@
 ## 🎯 About Me
 - 세종대학교 지능기전공학부 스마트기기공학전공 4학년 휴학 (現 AI로봇학과) (2021.03 ~ )
 - KT Aivle School AI Track 9기 수강 중 (2026.03 ~ 2026.09)
-- Naver connect 1784 스쿨혁명 최우우상, 세종대학교 SW AI 창업아이디어리그 장려상
+- NAVER connect 1784 스쿨혁명 최우우상, 세종대학교 SW AI 창업아이디어리그 장려상
 
 ## 🛠️ Tech Stack
 <table>
